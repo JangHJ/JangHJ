@@ -1,4 +1,17 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?section=header)
+# Hi I'm Jang Hee Jeong 👋
+
+
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=JangHJ)](https://github.com/JangHJ)
+
+
+<!-- [![*'s github stats](https://github-readme-stats.vercel.app/api?username=JangHJ&show_icons=true&theme=radical)](https://github.com/JangHJ) 다크모드-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangHJ)](https://github.com/JangHJ/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangHJ &layout=compact)](https://github.com/JangHJ/github-readme-stats) -->
+
+![footer](https://capsule-render.vercel.app/api?section=footer)
 
 <!--
 **JangHJ/JangHJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
