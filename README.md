@@ -1,17 +1,23 @@
-![header](https://capsule-render.vercel.app/api?section=header)
-# Hi I'm Jang Hee Jeong 👋
+<div align=center>
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0067a3&height=180&section=header&text=Developer.%20JangHeeJeong🌱&fontSize=32&animation=fadein&fontAlignY=36&fontColor=ffffff) 
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=JangHJ)](https://github.com/JangHJ)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangHJ)](https://github.com/JangHJ/github-readme-stats)
+</div>
+
+
+
+<!-- ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Dev.HJ%20&&animation=scaleIn)-->
+
+<!-- ![header](https://capsule-render.vercel.app/api?section=header)-->
 
 <!-- [![*'s github stats](https://github-readme-stats.vercel.app/api?username=JangHJ&show_icons=true&theme=radical)](https://github.com/JangHJ) 다크모드-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangHJ)](https://github.com/JangHJ/github-readme-stats)
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangHJ &layout=compact)](https://github.com/JangHJ/github-readme-stats) -->
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+<!--![footer](https://capsule-render.vercel.app/api?section=footer)-->
 
 <!--
 **JangHJ/JangHJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
