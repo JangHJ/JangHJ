@@ -1,8 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0067a3&height=180&section=header&text=Developer.%20JangHeeJeong🌱&fontSize=32&animation=fadein&fontAlignY=36&fontColor=ffffff) 
-
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=JangHJ)](https://github.com/JangHJ)
+/*[![*'s github stats](https://github-readme-stats.vercel.app/api?username=JangHJ)](https://github.com/JangHJ)*/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangHJ)](https://github.com/JangHJ/github-readme-stats)
 </div>
