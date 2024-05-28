@@ -1,6 +1,6 @@
 <div align=center>
 
-/*[![*'s github stats](https://github-readme-stats.vercel.app/api?username=JangHJ)](https://github.com/JangHJ)*/
+<!-- [![*'s github stats](https://github-readme-stats.vercel.app/api?username=JangHJ)](https://github.com/JangHJ) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangHJ)](https://github.com/JangHJ/github-readme-stats)
 </div>
